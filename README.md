@@ -6,6 +6,9 @@ This can be an important safety implementation as studies suggest that accidents
 
 There has been an increase in safety systems in cars & other vehicles and many are now mandatory in vehicles, but all of them cannot help if a driver falls asleep behind the wheel even for a brief moment. Hence that is what we are gonna build today – Driver Drowsiness Detection System
 
+![image](https://github.com/Nehalnavlani/Drowsiness-Detection-master/assets/92790772/30c0c012-4b3b-4c47-b0ff-d3ce4c2aa417)
+
+
 conda create -n env_rtdds 
 conda activate env_rtdds
 conda install -c conda-forge dlib 
